@@ -34,7 +34,7 @@ article{
 
     padding: 10px;
     text-align: center;
-    width: 100%; /*para indicarle al flexbox que los contenidos se van a ajustar al tamaño de la pantalla*/
+    width: 100%; 
 
 }
 p{text-align: justify}

@@ -2,31 +2,18 @@
 <rss version="2.0">
 	<channel>
 		<title>Bryan</title>
-		<link></link>
-		<description></description>
 		<language>en-us</language>
 		<copyright><![CDATA[ Bryan Garcia © ]]></copyright>
 		<image>
-			<url></url>
 			<title>Bryan</title>
-			<link></link>
+			<image></image>>
+			<url></url>
 		</image>
-		<item>
-			<title></title>
-			<link></link>
-			<pubDate>,    12:00:00 GMT</pubDate>
-			<author></author>
-			<category></category>
-			<description><![CDATA[ 
-			<h1></h1>
-			
-			]]></description>
-		</item>
 		<item>
 			<title>Noticias de Beisbol</title>
 			<link>https://elpais.com/deportes/2023-04-16/el-barca-aburre-en-getafe.html</link>
-			<pubDate>Mon, 17 Jan 2023 12:00:00 GMT</pubDate>
-			<author>Bryan Garcia</author>
+			<pubDate>Mon,17 Jan 2023 12:00:00 GMT</pubDate>
+			<author>bryan@gmail.com</author>
 			<category>Deportes</category>
 			<description><![CDATA[ 
 			<h1>Noticias de Beisbol</h1>
